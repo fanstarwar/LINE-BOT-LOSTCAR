@@ -21,8 +21,10 @@ if (!is_null($events['events'])) {
                                     'text' => 'ใหม่จร้า '.$text
                                 ],
                                 [
-                                    'type' => 'text',
-                                    'text' => 'จบแว่ว'
+                                    'type' => 'image',
+                                    'originalContentUrl' => 'https://cdn1.iconfinder.com/data/icons/people-13/100/People1-19-512.png',
+                                    'previewImageUrl' =>'https://cdn1.iconfinder.com/data/icons/people-13/100/People1-19-512.png'
+                                    
                                 ]
                                
 			];
