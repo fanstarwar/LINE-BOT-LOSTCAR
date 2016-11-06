@@ -16,8 +16,15 @@ if (!is_null($events['events'])) {
 
 			// Build message to reply back
 			$messages = [
+                                [
 				'type' => 'text',
 				'text' => 'ตอบกลับ '.$text
+                                ]
+                                ,
+                                [
+                                   'type' => 'text',
+                                    'text' => 'จบแว้ว'
+                                ]
 			];
 
 			// Make a POST Request to Messaging API to reply to sender
@@ -42,5 +49,5 @@ if (!is_null($events['events'])) {
 		}
 	}
 }
-echo "OK";
+echo "17.52";
 ?>
