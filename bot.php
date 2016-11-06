@@ -22,8 +22,8 @@ if (!is_null($events['events'])) {
                                 ],
                                 [
                                     'type' => 'image',
-                                    'originalContentUrl' => 'https://httpsimage.com/img/0909324.jpg',
-                                    'previewImageUrl' =>'https://httpsimage.com/img/0909324.jpg'
+                                    'originalContentUrl' => 'https://upload.wikimedia.org/wikipedia/en/1/13/Logo_of_NAM_Sixteenth_Summit.jpg',
+                                    'previewImageUrl' =>'https://upload.wikimedia.org/wikipedia/en/1/13/Logo_of_NAM_Sixteenth_Summit.jpg'
                                     
                                 ]
                                
