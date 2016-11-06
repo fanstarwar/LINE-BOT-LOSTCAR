@@ -22,8 +22,8 @@ if (!is_null($events['events'])) {
                                 ],
                                 [
                                     'type' => 'image',
-                                    'originalContentUrl' => 'https://cdn1.iconfinder.com/data/icons/people-13/100/People1-19-512.png',
-                                    'previewImageUrl' =>'https://cdn1.iconfinder.com/data/icons/people-13/100/People1-19-512.png'
+                                    'originalContentUrl' => 'https://drive.google.com/file/d/0B4Ud7WBhLcWBOUxZbUdGSFNZVW8/view',
+                                    'previewImageUrl' =>'https://drive.google.com/file/d/0B4Ud7WBhLcWBOUxZbUdGSFNZVW8/view'
                                     
                                 ]
                                
