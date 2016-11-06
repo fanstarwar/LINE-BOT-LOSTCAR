@@ -22,8 +22,8 @@ if (!is_null($events['events'])) {
                                 ],
                                 [
                                     'type' => 'image',
-                                    'originalContentUrl' => 'https://drive.google.com/file/d/0B4Ud7WBhLcWBOUxZbUdGSFNZVW8/view',
-                                    'previewImageUrl' =>'https://drive.google.com/file/d/0B4Ud7WBhLcWBOUxZbUdGSFNZVW8/view'
+                                    'originalContentUrl' => 'https://httpsimage.com/img/Screen%20Shot%202559-11-06%20at%2018.45.27.jpg',
+                                    'previewImageUrl' =>'https://httpsimage.com/img/Screen%20Shot%202559-11-06%20at%2018.45.27.jpg'
                                     
                                 ]
                                
