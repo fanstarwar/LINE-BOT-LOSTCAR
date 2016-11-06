@@ -22,8 +22,8 @@ if (!is_null($events['events'])) {
                                 ],
                                 [
                                     'type' => 'image',
-                                    'originalContentUrl' => 'https://httpsimage.com/img/Screen%20Shot%202559-11-06%20at%2018.45.27.jpg',
-                                    'previewImageUrl' =>'https://httpsimage.com/img/Screen%20Shot%202559-11-06%20at%2018.45.27.jpg'
+                                    'originalContentUrl' => 'http://thai.livingthai.org/wp-content/uploads/2013/11/ฝรั่ง.jpg',
+                                    'previewImageUrl' =>'http://thai.livingthai.org/wp-content/uploads/2013/11/ฝรั่ง.jpg'
                                     
                                 ]
                                
