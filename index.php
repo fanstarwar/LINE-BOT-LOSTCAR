@@ -11,7 +11,23 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-          echo 'Hello bot';
-        ?>
+          $messages = [
+                                [
+                                    'type' => 'text',
+                                    'text' => 'ใหม่จร้า '.$text
+                                ],
+                                [
+                                    'type' => 'text',
+                                    'text' => 'จบแว่ว'
+                                ]
+                               
+			];
+          $data = [
+				'replyToken' => $replyToken,
+				'messages' => [$messages],
+			];
+			$post = json_encode($data);
+                        echo $post;
+                        ?>
     </body>
 </html>
